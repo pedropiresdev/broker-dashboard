@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/broker-dashboard.iml" filepath="$PROJECT_DIR$/.idea/broker-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/brokerDashboard.iml" filepath="$PROJECT_DIR$/.idea/brokerDashboard.iml" />
     </modules>
   </component>
 </project>
